@@ -1,0 +1,7 @@
+John Scherer
+This is a memory simulator, initializing memory with Operating System memory 
+creating and destroying processes
+
+USAGE: memsim  { noncontiguous | first | best | next | worst }  <process-termination-probability> <new-process-probability>
+
+to build: g++ -Wall *.cpp -o memsim
