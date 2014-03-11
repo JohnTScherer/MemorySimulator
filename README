@@ -1,6 +1,6 @@
 John Scherer
-This is a memory simulator, initializing memory with Operating System memory 
-creating and destroying processes
+This is a memory simulator, initializing memory with Operating System memory. 
+Then based on arguments given will create and destroy processes
 
 USAGE: memsim  { noncontiguous | first | best | next | worst }  <process-termination-probability> <new-process-probability>
 
